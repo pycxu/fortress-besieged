@@ -489,6 +489,11 @@ h6{
     display: inline-block; 
 }
 
+#media ul li a{
+    color: #fff;
+    text-decoration: none;
+}
+
 @media(max-width: 768px){
     .collab, #personal, #media, #address{
         text-align: center;
